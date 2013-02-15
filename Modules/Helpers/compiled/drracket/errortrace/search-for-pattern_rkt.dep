@@ -1,0 +1,1 @@
+("5.3.1" ("d660bac77988b5e83cfb55200b1d710303c7448f" . "834db586a6ef553b31c23c989df2dcaaabc99b31") (collects #"racket" #"main.rkt") (collects #"errortrace" #"errortrace-key.rkt") #"D:\\Documents\\Olin College\\2012-2013\\Spring\\AI\\Pattern Matcher\\Modules\\Helpers\\..\\InputParse\\parse.rkt" (collects #"racket" #"lang" #"reader.rkt"))

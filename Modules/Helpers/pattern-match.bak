@@ -1,0 +1,15 @@
+#lang racket
+
+(provide equalMatch wildMatch)
+
+(define (first-char sym)
+  (substring (symbol->string sym) 0 1)
+  )
+
+(define (equalMatch? lst)
+  (if (equal? (first-char (car lst)) "=") #t #f )
+  )
+
+(define (wildcardMatch? lst)
+  (if (equal? (first-char (car lst)) "*") #t #f )
+  )

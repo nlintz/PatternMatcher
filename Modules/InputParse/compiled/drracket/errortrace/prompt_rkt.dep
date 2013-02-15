@@ -1,0 +1,1 @@
+("5.3.1" ("ea079579403bc49840ff2a69a09d87e535278ead" . "19517c10d3f0768ab2014425b8de790d0b8aadd8") (collects #"racket" #"main.rkt") #"d:\\documents\\olin college\\2012-2013\\spring\\ai\\pattern matcher\\Modules\\InputParse\\..\\Helpers\\string_to_list.rkt" (collects #"racket" #"lang" #"reader.rkt"))

@@ -1,0 +1,15 @@
+#lang racket
+#|
+duplicates?
+Nathan Lintz
+This module matches for duplicates in a list, its used by parse
+|#
+
+(provide duplicates?)
+
+(define (duplicates? lst)
+  (cond
+    [(equal? (length lst) (length (remove-duplicates lst))) #t]
+    [else #f]
+    )
+  )

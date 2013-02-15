@@ -1,0 +1,6 @@
+#lang racket
+#|
+input-pattern
+Nathan Lintz
+This module matches for a single variable and returns a dictionary if
+theres a match

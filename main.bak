@@ -1,0 +1,8 @@
+#lang racket
+#|
+main
+Nathan Lintz
+This module takes an association list and an input. It fills the variables
+in with the associated values
+EX: (output-gen '((x lynn)) '(it is nice to meet you x)) -> it is nice to meet you lynn
+|#

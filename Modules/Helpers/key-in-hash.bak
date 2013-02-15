@@ -1,0 +1,14 @@
+#lang racket
+#|
+key-in-hash
+Nathan Lintz
+This module finds out if a key is in a has table
+|#
+
+(define (key-in-hash assoc-hash k)
+  (cond
+    [() ()]
+    [else #f]
+    )
+  )
+  
